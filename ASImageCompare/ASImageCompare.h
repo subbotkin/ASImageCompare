@@ -14,6 +14,6 @@ FOUNDATION_EXPORT double ASImageCompareVersionNumber;
 //! Project version string for ASImageCompare.
 FOUNDATION_EXPORT const unsigned char ASImageCompareVersionString[];
 
-#import "ASImageHistogram.h"
+#import "UIImage+Compare.h"
 
 

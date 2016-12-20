@@ -10,9 +10,9 @@
 		1D9147BB1E08717700E90D86 /* ASImageCompare.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D9147B11E08717700E90D86 /* ASImageCompare.framework */; };
 		1D9147C01E08717700E90D86 /* ASImageCompareTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D9147BF1E08717700E90D86 /* ASImageCompareTests.m */; };
 		1D9147C21E08717700E90D86 /* ASImageCompare.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D9147B41E08717700E90D86 /* ASImageCompare.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1D9147D01E08732E00E90D86 /* ASImageHistogram.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D9147CE1E08732E00E90D86 /* ASImageHistogram.h */; };
+		1D9147D01E08732E00E90D86 /* ASImageHistogram.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D9147CE1E08732E00E90D86 /* ASImageHistogram.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		1D9147D11E08732E00E90D86 /* ASImageHistogram.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D9147CF1E08732E00E90D86 /* ASImageHistogram.m */; };
-		1D9147DB1E08896600E90D86 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D9147D91E08896600E90D86 /* UIImage+Compare.h */; };
+		1D9147DB1E08896600E90D86 /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D9147D91E08896600E90D86 /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1D9147DC1E08896600E90D86 /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D9147DA1E08896600E90D86 /* UIImage+Compare.m */; };
 		1D9147F61E0894B800E90D86 /* test_image1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D9147F21E0894B800E90D86 /* test_image1.jpg */; };
 		1D9147F71E0894B800E90D86 /* test_image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D9147F31E0894B800E90D86 /* test_image2.jpg */; };
